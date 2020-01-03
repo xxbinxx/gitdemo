@@ -1,0 +1,7 @@
+ginni1.*
+media/
+*.log
+logs/
+*.pyc
+.pyc~
+
